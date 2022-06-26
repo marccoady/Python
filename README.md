@@ -1,6 +1,6 @@
 # Python
 Projects created when starting to learn Python
-- 👋 Hi, I’m @zaireali649
+- 👋 Hi, I’m @marccoady
 - 👀 I’m interested in Cloud Security
 - 🌱 I’m currently learning Python, AWS
 - 💞️ I’m looking to continue my career in cybersecurity and learn more about cloud security.
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Zaire%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaireali649/)](https://www.linkedin.com/in/zaireali649/)
 [![Medium Badge](https://img.shields.io/badge/Zaire%20Ali-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@zaireali649)](https://medium.com/@zaireali649)
-[![Gmail Badge](https://img.shields.io/badge/-zaireali649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaireali649@gmail.com)](mailto:zaireali649@gmail.com)
+
 
 ## ⚡ Technologies
 
