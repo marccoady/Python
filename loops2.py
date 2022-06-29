@@ -2,5 +2,8 @@
 
 n = int(input("Enter a number: "))
 if n > 1 and n < 20:
-    print(n)
+    for i in range(0, n, 1):
+        print(i*i)
+
+    
     
