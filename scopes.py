@@ -1,11 +1,16 @@
-def set_x():
-    x = 5
-    
-set_x()
+y = 5
 
-while x < 6:
-    print(x)
-    x += 1
+
+def set_x(z):
+    x = z
+    global y
+    global a
+    y = x
+    a = 7
+print("y before set_x", y)
     
-print(x)
+set_x(10)
+print("y after set_x:", y)
+print("a after set_x:", a)
+
     
