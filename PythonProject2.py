@@ -2,6 +2,11 @@
 
 # This Script can be used to create Random EC2 Names
 
+# Import modules to generate random strings
+
+import random
+import string
+
 # Verify department has access
 
 while True:
